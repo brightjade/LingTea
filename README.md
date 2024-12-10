@@ -17,13 +17,13 @@ Source code for our *Findings of EMNLP 2024* paper [Cross-Lingual Unlearning of 
 
 Unlearn a subset of FLORES-200:
 
-```python
+```shell
 >> bash scripts/run_flores.sh
 ```
 
 Unlearn a subset of BMLAMA-53:
 
-```python
+```shell
 >> bash scripts/run_bmlama.sh
 ```
 
